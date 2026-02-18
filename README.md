@@ -25,7 +25,7 @@ I enjoy turning ideas into practical applications and continuously improving my 
 - Git & GitHub
 - VS Code
 - Postman
-- Vercel / Netlify
+- Vercel
 
 ---
 
